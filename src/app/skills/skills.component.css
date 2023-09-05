@@ -1,0 +1,17 @@
+.container-skills {
+    width: 100%;
+    height: 450px;
+    text-align: center;
+}
+
+.title-skills {
+    margin: 64px 0;
+    font-size: 20px;
+}
+
+.container-icons-skills {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    flex-wrap: wrap;
+}
